@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" http-equiv="content-type content= text/html">
+<title>BtShare</title>
+<link rel="stylesheet" type="text/css" href="share.css"/>
+
+</head>
+
+<body>
+	<div id="head">
+    	<h3><a href="index.html">BitKeys Share</a></h3>
+        <div id="headSign">
+        	<p id="Signin"><a href="login.html">Sign in</a></p>
+            <p id="Signup"><a href="registration.html">Sign up</a></p>
+            <p id="Signout"><a href="">Sign out</a></p>
+            <p id="Myaccount"><a href="">MyAccount</a></p>
+        </div>
+    </div>
+    
+    <div id="body">
+    	<h2 id="sharehtml">Share</h2>
+        <h3>Add your own public BitSync key below!</h3>
+    	<form id="ShrForm">
+            <input type="text" name="user" style="display:none"/>   
+            <input type="text" name="time" style="display:none"/>       
+        	<p>
+            	<span>Key</span>
+                <div class="Inpdiv">
+                	<span>Key</span> 
+                	<input type="text" name="key"/>
+                </div>
+                <strong id="key_strong"></strong>
+            </p>
+           	<p>
+            	<span>Title</span>
+                <div class="Inpdiv">
+                	<span>Title</span>
+                	<input type="text" name="title"/>
+                </div>
+                 <strong id="title_strong"></strong>
+            </p>
+            <p>
+            	<span>Description</span>
+                <textarea name="description" id="description"></textarea>
+            </p>
+            <p>
+            	<input type="button" name="sub" id="sub" value="Share key"/>
+            </p>
+        </form>
+    </div>
+    
+ 	<p id="foot">BitTorrent Keys Share</p>
+    
+
+    <script src="json2.js"></script> 
+    <script src="jquery-1.8.3.min.js"></script> 
+    <script src="ensemble-jquery.js"></script> 
+</body>
+</html>
+<!--
+
+-->

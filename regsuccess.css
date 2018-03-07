@@ -1,0 +1,81 @@
+body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { 
+	margin: 0px; 
+	padding: 0px; 
+	font-size: 12px; 
+	font-weight: normal;
+}
+ul { 
+	list-style: none; 
+}
+img { 
+	border-style: none; 
+}
+a{
+	text-decoration:none;
+	outline:none;
+	color:white;
+	cursor:pointer;
+}
+
+#head{
+	height:52px;
+	background:#2c3e50;
+	padding:0 100px 0 100px;
+}
+#head h3{
+	float:left;
+	font:white;
+	font-size:20px;
+	font-weight:bold;
+	line-height:52px;
+}
+#headSign{
+	float:right;
+}
+#headSign p{
+	float:right;
+	margin:6px 3px 4px 3px;
+}
+#Signup{
+	background:#f5b043;
+}
+#Signin{
+	background:#1dccaa;
+}
+#headSign p a{
+	display:inline-block;
+	float:right;
+	line-height:38px;
+	padding:0 20px;
+	font-size:16px;
+}
+
+#body{
+	padding:0 100px 0 100px;
+	height:140px;
+}
+#body h2{
+	padding-left:32px;
+	width:700px;
+	height:90px;
+	line-height:90px;	
+	font-size:40px;
+	font-weight:bold;
+	color:#2c3e50;
+}
+#body h3{
+	padding-left:32px;
+	width:600px;
+	height:20px;
+	line-height:20px;	
+	font-size:14px;
+	color:#2c3e50;
+	margin-bottom:6px;
+}
+#foot{
+	margin:0 100px 0 100px;
+	border-top:1px solid #ecf0f1;
+	line-height:84px;
+	color:#2c3e50;
+	font-size:12px;	
+}
