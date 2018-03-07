@@ -8,17 +8,17 @@
 * 后台使用 WampServer 的 php + mySQL 的集成环境
 
 
-![](https://github.com/rjwx60/bt-share/imgs/home.png)
+![](https://github.com/rjwx60/bt-share/tree/master/imgs/home.png)
 网站首页截图
 
-![](https://github.com/rjwx60/bt-share/imgs/share.png)
+![](https://github.com/rjwx60/bt-share/tree/master/imgs/share.png)
 资源分享页截图
 
-![](https://github.com/rjwx60/bt-share/imgs/signin.png)
+![](https://github.com/rjwx60/bt-share/tree/master/imgs/signin.png)
 登录页截图
 
-![](https://github.com/rjwx60/bt-share/imgs/registration.png)
+![](https://github.com/rjwx60/bt-share/tree/master/imgs/registration.png)
 注册页面截图
 
-![](https://github.com/rjwx60/bt-share/imgs/backend.png)
+![](https://github.com/rjwx60/bt-share/tree/master/imgs/backend.png)
 WampServer截图
